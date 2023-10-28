@@ -18,7 +18,7 @@ The flight data used in this analysis was mainly sourced from Spire Aviation. Th
 #### Temporal Analysis:
 - Explored flight counts and duration trends over the years, providing insights into the industry's growth and operational efficiency.
 
-#### Airline, Airport, and Aircraft Analysis:
+### Airline, Airport, and Aircraft Analysis:
 - **Number of Flights by Airline and Aircraft Role:** Visualized the distribution of flight counts based on airline and aircraft roles, highlighting operational patterns.
   ![newplot-6](https://github.com/moali811/DS_Global-Flight-Report-Sample/assets/59733199/b9d650d1-4b49-4e8f-86b1-b952c80440b8)
 
@@ -38,20 +38,22 @@ The flight data used in this analysis was mainly sourced from Spire Aviation. Th
 - **Weekday vs. Weekend Analysis:** Compared flight durations on weekdays and weekends, understanding potential differences in operational efficiency.
   ![newplot-17](https://github.com/moali811/DS_Global-Flight-Report-Sample/assets/59733199/e12f8d36-f62a-4f43-8992-6a83a399a80e)
 
-#### On-Time Performance Analysis:
+### On-Time Performance Analysis:
 - **Yearly Trend of On-Time Performance:** Examined the yearly trend of on-time percentages for airlines, offering insights into their punctuality and service quality.
 
-#### Heatmap for Busiest Time of the Day:
+### Heatmap for Busiest Time of the Day:
 - The heatmap visualizes the busiest times of the day for flights based on departure schedules. It provides insights into the variation of flight counts throughout different hours and days of the week.
 ![newplot-19](https://github.com/moali811/DS_Global-Flight-Report-Sample/assets/59733199/e46b6682-e0e5-4cb9-8e26-327eb00f2ca5)
 
-#### Correlation Matrix Heatmap:
+### Correlation Matrix Heatmap:
 - The correlation matrix heatmap illustrates the relationships between different numerical columns in the dataset. It helps identify potential correlations, both positive and negative, between flight-related variables.
 ![newplot-20](https://github.com/moali811/DS_Global-Flight-Report-Sample/assets/59733199/bd9543e5-90a5-4085-af33-eba0f0c635bc)
 
-#### Geographical Analysis:
+### Geographical Analysis:
 - **Airport Analysis:** Visualized the geographical distribution of airports based on flight counts, on-time percentages, and flight durations, providing insights into regional aviation patterns.
 - **Interactive Flight Map:** Developed an interactive map displaying flight routes, on-time percentages, and other flight details, enhancing the understanding of global flight networks.
+![Uploading Flight_Map.png…]()
+
 
 ## 5. Conclusion and Future Recommendations:
 - **Conclusion:** This project successfully analyzed and visualized global flight data, offering valuable insights for the aviation industry. Key findings include trends in on-time performance, busiest airports, and aircraft role distribution.
