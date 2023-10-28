@@ -42,9 +42,11 @@ The flight data used in this analysis was mainly sourced from Spire Aviation. Th
 - **Yearly Trend of On-Time Performance:** Examined the yearly trend of on-time percentages for airlines, offering insights into their punctuality and service quality.
 
 #### Heatmap for Busiest Time of the Day:
+- The heatmap visualizes the busiest times of the day for flights based on departure schedules. It provides insights into the variation of flight counts throughout different hours and days of the week.
 ![newplot-19](https://github.com/moali811/DS_Global-Flight-Report-Sample/assets/59733199/e46b6682-e0e5-4cb9-8e26-327eb00f2ca5)
 
 #### Correlation Matrix Heatmap:
+- The correlation matrix heatmap illustrates the relationships between different numerical columns in the dataset. It helps identify potential correlations, both positive and negative, between flight-related variables.
 ![newplot-20](https://github.com/moali811/DS_Global-Flight-Report-Sample/assets/59733199/bd9543e5-90a5-4085-af33-eba0f0c635bc)
 
 #### Geographical Analysis:
