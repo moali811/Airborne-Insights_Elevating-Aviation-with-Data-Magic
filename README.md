@@ -2,7 +2,7 @@
 # Data Science Project Report: Global Flight Analysis and Visualization
 
 ## 1. Introduction:
-This data science project aims to analyze and visualize global flight data to provide valuable insights for the aviation industry. The analysis encompasses various aspects such as flight counts, on-time performance, airport distribution, and geographical visualization of flight routes. The project utilizes Python and several libraries, including Pandas, Plotly, Seaborn, and Folium, to perform data processing, exploratory analysis, and interactive visualization.
+This data science project aims to analyze and visualize global flight data to provide valuable insights for the aviation industry. The analysis encompasses various aspects such as flight counts, on-time performance, airport distribution, and geographical visualization of flight routes. The project utilizes Python and several libraries, including Pandas, Plotly, and Folium, to perform data processing, exploratory analysis, and interactive visualization.
 
 ## 2. Data Source:
 The flight data used in this analysis was mainly sourced from Spire Aviation. The dataset includes information about flight schedules, airlines, airports, aircraft types, departure/arrival times. However, the IATA/ICAO List data is available from http://www.ip2location.com (a publicly available dataset on GitHub).
@@ -20,6 +20,8 @@ The flight data used in this analysis was mainly sourced from Spire Aviation. Th
 
 #### Airline, Airport, and Aircraft Analysis:
 - **Number of Flights by Airline and Aircraft Role:** Visualized the distribution of flight counts based on airline and aircraft roles, highlighting operational patterns.
+  ![newplot-6](https://github.com/moali811/DS_Global-Flight-Report-Sample/assets/59733199/b9d650d1-4b49-4e8f-86b1-b952c80440b8)
+
 - **Top Departure and Arrival Airports:** Identified the busiest departure and arrival airports, aiding in route optimization and resource allocation.
 - **Flight Counts by Aircraft Type:** Analyzed the prevalence of different aircraft types in global flights.
 - **Flight Durations Analysis:** Investigated the distribution of flight durations and their correlation with airline performance and aircraft roles.
