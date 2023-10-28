@@ -19,7 +19,8 @@ The flight data used in this analysis was mainly sourced from Spire Aviation. Th
 - Explored flight counts and duration trends over the years, providing insights into the industry's growth and operational efficiency.
 
 #### Airline, Airport, and Aircraft Analysis:
-- **Number of Flights by Airline and Aircraft Role:** Visualized the distribution of flight counts based on airline and aircraft roles, highlighting operational patterns.
+- **Number of Flights by Airline and Aircraft Role:** Visualized the distribution of flight counts based on airline and aircraft roles, highlighting operational patterns.![newplot-7](https://github.com/moali811/DS_Global-Flight-Report-Sample/assets/59733199/a0c44acc-c572-4dda-9a8c-4bce4ded6dbb)
+
   ![newplot-6](https://github.com/moali811/DS_Global-Flight-Report-Sample/assets/59733199/b9d650d1-4b49-4e8f-86b1-b952c80440b8)
 
 - **Top Departure and Arrival Airports:** Identified the busiest departure and arrival airports, aiding in route optimization and resource allocation.
