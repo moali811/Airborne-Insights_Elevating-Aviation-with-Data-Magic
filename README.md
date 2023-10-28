@@ -19,17 +19,33 @@ The flight data used in this analysis was mainly sourced from Spire Aviation. Th
 - Explored flight counts and duration trends over the years, providing insights into the industry's growth and operational efficiency.
 
 #### Airline, Airport, and Aircraft Analysis:
-- **Number of Flights by Airline and Aircraft Role:** Visualized the distribution of flight counts based on airline and aircraft roles, highlighting operational patterns.![newplot-7](https://github.com/moali811/DS_Global-Flight-Report-Sample/assets/59733199/a0c44acc-c572-4dda-9a8c-4bce4ded6dbb)
-
+- **Number of Flights by Airline and Aircraft Role:** Visualized the distribution of flight counts based on airline and aircraft roles, highlighting operational patterns.
   ![newplot-6](https://github.com/moali811/DS_Global-Flight-Report-Sample/assets/59733199/b9d650d1-4b49-4e8f-86b1-b952c80440b8)
 
 - **Top Departure and Arrival Airports:** Identified the busiest departure and arrival airports, aiding in route optimization and resource allocation.
+  ![newplot-7](https://github.com/moali811/DS_Global-Flight-Report-Sample/assets/59733199/a0c44acc-c572-4dda-9a8c-4bce4ded6dbb)
+  ![newplot-8](https://github.com/moali811/DS_Global-Flight-Report-Sample/assets/59733199/878877cb-5074-447a-a7fd-ef845f0e20cb)
+
 - **Flight Counts by Aircraft Type:** Analyzed the prevalence of different aircraft types in global flights.
+  ![newplot-9](https://github.com/moali811/DS_Global-Flight-Report-Sample/assets/59733199/13168990-86ab-4877-851b-43aa96cc3a41)
+
 - **Flight Durations Analysis:** Investigated the distribution of flight durations and their correlation with airline performance and aircraft roles.
+  ![newplot-11](https://github.com/moali811/DS_Global-Flight-Report-Sample/assets/59733199/4cc053cc-9d99-4790-9b21-cf06488e56ad)
+  ![newplot-12](https://github.com/moali811/DS_Global-Flight-Report-Sample/assets/59733199/b29e94b5-feb1-4802-b2c9-fa47441a1955)
+  ![newplot-13](https://github.com/moali811/DS_Global-Flight-Report-Sample/assets/59733199/3bf591f8-a71e-4f16-9bdc-e18ec98b8bbe)
+  ![newplot-16](https://github.com/moali811/DS_Global-Flight-Report-Sample/assets/59733199/028cd875-7555-4d6c-928c-755ee2a4eef6)
+
+- **Weekday vs. Weekend Analysis:** Compared flight durations on weekdays and weekends, understanding potential differences in operational efficiency.
+  ![newplot-17](https://github.com/moali811/DS_Global-Flight-Report-Sample/assets/59733199/e12f8d36-f62a-4f43-8992-6a83a399a80e)
 
 #### On-Time Performance Analysis:
 - **Yearly Trend of On-Time Performance:** Examined the yearly trend of on-time percentages for airlines, offering insights into their punctuality and service quality.
-**Weekday vs. Weekend Analysis:** Compared flight durations on weekdays and weekends, understanding potential differences in operational efficiency.
+
+#### Heatmap for Busiest Time of the Day:
+![newplot-19](https://github.com/moali811/DS_Global-Flight-Report-Sample/assets/59733199/e46b6682-e0e5-4cb9-8e26-327eb00f2ca5)
+
+#### Correlation Matrix Heatmap:
+![newplot-20](https://github.com/moali811/DS_Global-Flight-Report-Sample/assets/59733199/bd9543e5-90a5-4085-af33-eba0f0c635bc)
 
 #### Geographical Analysis:
 - **Airport Analysis:** Visualized the geographical distribution of airports based on flight counts, on-time percentages, and flight durations, providing insights into regional aviation patterns.
