@@ -43,16 +43,16 @@ The flight data used in this analysis was mainly sourced from Spire Aviation. Th
 
 ### Heatmap for Busiest Time of the Day:
 - The heatmap visualizes the busiest times of the day for flights based on departure schedules. It provides insights into the variation of flight counts throughout different hours and days of the week.
-![newplot-19](https://github.com/moali811/DS_Global-Flight-Report-Sample/assets/59733199/e46b6682-e0e5-4cb9-8e26-327eb00f2ca5)
+  ![newplot-19](https://github.com/moali811/DS_Global-Flight-Report-Sample/assets/59733199/e46b6682-e0e5-4cb9-8e26-327eb00f2ca5)
 
 ### Correlation Matrix Heatmap:
 - The correlation matrix heatmap illustrates the relationships between different numerical columns in the dataset. It helps identify potential correlations, both positive and negative, between flight-related variables.
-![newplot-20](https://github.com/moali811/DS_Global-Flight-Report-Sample/assets/59733199/bd9543e5-90a5-4085-af33-eba0f0c635bc)
+  ![newplot-20](https://github.com/moali811/DS_Global-Flight-Report-Sample/assets/59733199/bd9543e5-90a5-4085-af33-eba0f0c635bc)
 
 ### Geographical Analysis:
 - **Airport Analysis:** Visualized the geographical distribution of airports based on flight counts, on-time percentages, and flight durations, providing insights into regional aviation patterns.
 - **Interactive Flight Map:** Developed an interactive map displaying flight routes, on-time percentages, and other flight details, enhancing the understanding of global flight networks.
-![Uploading Flight_Map.png…]()
+  <img width="1920" alt="Flight_Map" src="https://github.com/moali811/DS_Global-Flight-Report-Sample/assets/59733199/ba057f18-2b4c-41b2-8f98-0e9909e1d7c7">
 
 
 ## 5. Conclusion and Future Recommendations:
