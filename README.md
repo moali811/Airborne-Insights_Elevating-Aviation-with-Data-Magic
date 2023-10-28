@@ -5,7 +5,7 @@
 This data science project aims to analyze and visualize global flight data to provide valuable insights for the aviation industry. The analysis encompasses various aspects such as flight counts, on-time performance, airport distribution, and geographical visualization of flight routes. The project utilizes Python and several libraries, including Pandas, Plotly, and Folium, to perform data processing, exploratory analysis, and interactive visualization.
 
 ## 2. Data Source:
-The flight data used in this analysis was mainly sourced from Spire Aviation. The dataset includes information about flight schedules, airlines, airports, aircraft types, departure/arrival times. However, the IATA/ICAO List data is available from http://www.ip2location.com (a publicly available dataset on GitHub).
+The flight data used in this analysis was mainly sourced from Spire Aviation. The dataset includes information about flight schedules, airlines, airports, aircraft types, departure/arrival times. However, the IATA/ICAO List data is available from https://github.com/ip2location/ip2location-iata-icao by http://www.ip2location.com (a publicly available dataset on GitHub).
 
 ## 3. Data Exploration and Preprocessing:
 - Loaded the dataset into a Pandas DataFrame.
