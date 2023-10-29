@@ -11,7 +11,7 @@ In this captivating data science odyssey, we soar into the world of aviation, di
 <br><br>
 
 ## 2. Data: Unveiling the Treasure Trove
-Our treasure trove, sourced primarily from Spire Aviation and embellished with gems from the IATA/ICAO List, revealed flight schedules, airlines, airports, aircraft types, and the mystical dance of departure/arrival times. (IATA/ICAO List data: GitHub: [https://github.com/ip2location/ip2location-iata-icao])
+Our treasure trove, sourced primarily from Spire Aviation and embellished with gems from the IATA/ICAO List, revealed flight schedules, airlines, airports, aircraft types, and the mystical dance of departure/arrival times. (IATA/ICAO List data: [GitHub](https://github.com/ip2location/ip2location-iata-icao)
 <br><br>
 
 ## 3. Preparing the Spell: Data Exploration and Preprocessing
@@ -98,4 +98,4 @@ To the enchanting open-source contributors, we extend our deepest gratitude. You
 <br><br>
 <br><br>
 
-*Embark on the full magical journey in our repository, where every spell and enchantment awaits your curious eyes! 📚🔍 Explore the Magical Repository ✨*
+*Embark on the full magical journey in our repository, where every spell and enchantment awaits your curious eyes! 📚🔍 [Explore the Magical Repository](https://github.com/moali811/Airborne-Insights_Elevating-Aviation-with-Data-Magic) ✨*
